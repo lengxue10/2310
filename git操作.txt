@@ -1,0 +1,14 @@
+
+cd ~
+cd Work/function-doc
+git clone https://github.com/lengxue10/2310.git
+
+空资源库
+You appear to have cloned an empty repository. 
+
+
+
+前往 ~/.gitconfig
+
+git config --global  user.name "519962119@qq.com"
+git config --global user.email "519962119@qq.com"
